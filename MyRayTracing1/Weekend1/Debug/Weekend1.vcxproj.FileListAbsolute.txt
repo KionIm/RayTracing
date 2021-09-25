@@ -1,0 +1,14 @@
+C:\Users\Kee\Works\Study\RayTracingWeekend\Weekend1\Debug\Weekend1.exe
+C:\Users\Kee\Works\Study\RayTracingWeekend\WeekendMetal\Weekend1\Debug\Weekend1.exe
+C:\Users\Kee\Works\Study\RayTracingWeekend\WeekendCamera\Weekend1\Debug\Weekend1.exe
+C:\Users\Kee\Works\Study\RayTracingWeekend\NextWeekMotionBlur\Weekend1\Debug\Weekend1.exe
+C:\Users\Kee\Works\Study\RayTracingWeekend\NextWeekBVH\Weekend1\Debug\Weekend1.exe
+C:\Users\Kee\Works\Study\RayTracingWeekend\NextWeekPerlinNoise\Weekend1\Debug\Weekend1.exe
+C:\Users\Kee\Works\Study\RayTracingWeekend\NextWeekPerlinNoise2\Weekend1\Debug\Weekend1.exe
+C:\Users\Kee\Works\Study\RayTracingWeekend\NextWeekImageTexture\Weekend1\Debug\Weekend1.exe
+C:\Users\Kee\Works\Study\RayTracingWeekend\NextWeekRectangleLight\Weekend1\Debug\Weekend1.exe
+C:\Users\Kee\Works\Study\RayTracingWeekend\NextWeekInstances\Weekend1\Debug\Weekend1.exe
+C:\Users\Kee\Works\Study\RayTracingWeekend\RestOfLifeSamplingMaterial2\Weekend1\Debug\Weekend1.exe
+C:\Users\Kee\Works\Study\RayTracingWeekend\RestOfLifeSamplingLightDirectly\Weekend1\Debug\Weekend1.exe
+C:\Users\Kee\Works\Study\RayTracingWeekend\RestOfLifeMixtureDensities2\Weekend1\Debug\Weekend1.exe
+C:\Users\Kee\Works\Myprojects\RayTracing\Weekend1\Debug\Weekend1.exe
